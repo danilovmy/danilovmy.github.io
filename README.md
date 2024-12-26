@@ -1,2 +1,3 @@
 # danilovmy.github.io
-Static file on github pages
+
+Full list of devrel activity: [https://danilovmy.github.io/devrel.html](https://danilovmy.github.io/devrel.html)
